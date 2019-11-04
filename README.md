@@ -5,11 +5,11 @@
 
 
 ### Spis treści:
-  1.	Cel i funkcje systemu; 
-  2.	Dane gromadzone przez system;
-  3.	Autorzy aplikacji;
-  4.	Terminarz;
-  5.	Podział prac między członków zespołu;
+  1.	Cel i funkcje systemu
+  2.	Dane gromadzone przez system
+  3.	Autorzy aplikacji
+  4.	Terminarz
+  5.	Podział prac między członków zespołu
   6.	Schematy UML.
   
 
