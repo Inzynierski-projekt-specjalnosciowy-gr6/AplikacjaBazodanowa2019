@@ -18,9 +18,13 @@ System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch r
 - Użytkownik będzie mógł poznać czas wykonywania poszczególnych operacji.
 
 
+
+
 ### 2.	Dane gromadzone przez system:
 Obie bazy będą posiadać takie same dane i struktury, ponieważ aplikacja ma za główne zadanie sprawne kopiowanie plików ze środowiska PostgreSQL do ClickHouse i odwrotnie. 
 System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
+
+
 
 
 ### 3.	Autorzy aplikacji:
@@ -30,6 +34,8 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
   -	Wojdyła Marek
   
   
+  
+  
 ### 4.	Termiarz pracy:
   -	Opracowanie założeń i wymagań: *28.10.2019*
   -	Opracowanie wstępnej dokumentacji: *04.11.2019*
@@ -37,6 +43,8 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
   -	Testy: *25.11.2019*
   -	Przygotowanie całkowitej dokumentacji: *02.12.2019*
   -	Prezentacja projektu, rozliczenie, zaliczenie: *16.12.2019*
+  
+  
   
   
 ### 5. Podział prac między członków zespołu:
@@ -57,10 +65,12 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
     - programowanie front-endu aplikacji w języku PHP.
 
 
+
+
 ### 6. Schematy UML:
   -	Diagram użycia: 
   
-  ![Błąd]( "Opcjonalny tytul")
+  ![Błąd](Diagram_użycia.png "Opcjonalny tytul")
   
   
   -	Diagram aktywności:
