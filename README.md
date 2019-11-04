@@ -24,51 +24,51 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
 
 
 ### 3.	Autorzy aplikacji:
-  •	Jednacz Bartosz
-  •	Nędza Patrycja
-  •	Sobkowicz Mateusz
-  •	Wojdyła Marek
+  - Jednacz Bartosz
+  -	Nędza Patrycja
+  -	Sobkowicz Mateusz
+  -	Wojdyła Marek
   
   
 ### 4.	Termiarz pracy:
-  •	Opracowanie założeń i wymagań: *28.10.2019*
-  •	Opracowanie wstępnej dokumentacji: *04.11.2019*
-  •	Implementacja: *18.11.2019*
-  •	Testy: *25.11.2019*
-  •	Przygotowanie całkowitej dokumentacji: *02.12.2019*
-  •	Prezentacja projektu, rozliczenie, zaliczenie: *16.12.2019*
+  -	Opracowanie założeń i wymagań: *28.10.2019*
+  -	Opracowanie wstępnej dokumentacji: *04.11.2019*
+  -	Implementacja: *18.11.2019*
+  -	Testy: *25.11.2019*
+  -	Przygotowanie całkowitej dokumentacji: *02.12.2019*
+  -	Prezentacja projektu, rozliczenie, zaliczenie: *16.12.2019*
   
   
 ### 5. Podział prac między członków zespołu:
-  •	Jednacz Bartosz:
+  -	Jednacz Bartosz:
     - programowanie back-endu aplikacji w języku PHP.
 
-  •	Nędza Patrycja:
+  -	Nędza Patrycja:
     - baza danych: PostgreSQL
     - zapytania dotyczące wybranej wyżej bazy
     - dokumentacja aplikacji
 
-  •	Sobkowicz Mateusz:
+  -	Sobkowicz Mateusz:
     - baza danych: ClickHouse
     - zapytania dotyczące wybranej wyżej bazy
     - testy
 
-  •	Wojdyła Marek:
+  -	Wojdyła Marek:
     - programowanie front-endu aplikacji w języku PHP.
 
 
 ### 6. Schematy UML:
-  •	Diagram użycia: 
+  -	Diagram użycia: 
   
   ![Błąd]( "Opcjonalny tytul")
   
   
-  •	Diagram aktywności:
+  -	Diagram aktywności:
   
   ![Błąd]( "Opcjonalny tytul")
   
   
-  •	Diagram sekwencji:
+  -	Diagram sekwencji:
   
   ![Błąd]( "Opcjonalny tytul")
   
