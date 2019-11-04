@@ -70,7 +70,7 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
 ### 6. Schematy UML:
   -	Diagram użycia: 
   
-  ![Błąd]( "Opcjonalny tytul")
+  ![Błąd](Diagram_użycia "Opcjonalny tytul")
   
   
   -	Diagram aktywności:
