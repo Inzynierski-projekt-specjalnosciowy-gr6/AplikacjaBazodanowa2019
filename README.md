@@ -23,7 +23,7 @@ System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch r
 
 ### 2.	Dane gromadzone przez system:
 Obie bazy będą posiadać takie same dane i struktury, ponieważ aplikacja ma za główne zadanie sprawne kopiowanie plików ze środowiska PostgreSQL do ClickHouse i odwrotnie. 
-System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
+System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. Na podstawie tego, generowany będzie raport wyświetlający czasy operacji.
 
 
 
