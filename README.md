@@ -73,9 +73,13 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
   ![Błąd](Diagram_użycia.PNG "Opcjonalny tytul")
   
   
+  
+  
   -	Diagram aktywności:
   
   ![Błąd](Diagram_aktywności.PNG "Opcjonalny tytul")
+  
+  
   
   
   -	Diagram sekwencji:
