@@ -12,10 +12,10 @@
   6.	Schematy UML.
   
 
-### 1.Cel i funkcje systemu:
+### 1. Cel i funkcje systemu:
 System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch różnych środowisk bazodanowych – PostgreSQL oraz ClickHouse. 
-   • Aplikacja ta, będzie umożliwiać użytkownikowi m.in. CRUD (tworzenie / dodawanie, odczytywanie / wyświetlanie, aktualizowanie, usuwanie) oraz kopiowanie danych z jednej bazy do drugiej. 
-   • Użytkownik będzie mógł poznać czas wykonywania poszczególnych operacji.
+- Aplikacja ta, będzie umożliwiać użytkownikowi m.in. CRUD (tworzenie / dodawanie, odczytywanie / wyświetlanie, aktualizowanie, usuwanie) oraz kopiowanie danych z jednej bazy do drugiej. 
+- Użytkownik będzie mógł poznać czas wykonywania poszczególnych operacji.
 
 
 ### 2.	Dane gromadzone przez system:
