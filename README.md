@@ -75,12 +75,12 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym.
   
   -	Diagram aktywności:
   
-  ![Błąd]( "Opcjonalny tytul")
+  ![Błąd](Diagram_aktywności.PNG "Opcjonalny tytul")
   
   
   -	Diagram sekwencji:
   
-  ![Błąd]( "Opcjonalny tytul")
+  ![Błąd](Diagram_sekwencji.PNG "Opcjonalny tytul")
   
   
   
