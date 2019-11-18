@@ -40,9 +40,9 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. N
 ### 4.	Termiarz pracy:
   -	Opracowanie założeń i wymagań: *28.10.2019*
   -	Opracowanie wstępnej dokumentacji: *04.11.2019*
-  -	Implementacja: *18.11.2019*
-  -	Testy: *25.11.2019*
-  -	Przygotowanie całkowitej dokumentacji: *02.12.2019*
+  -	Implementacja: *25.11.2019*
+  -	Testy: *02.11.2019*
+  -	Przygotowanie całkowitej dokumentacji: *09.12.2019*
   -	Prezentacja projektu, rozliczenie, zaliczenie: *16.12.2019*
   
   
