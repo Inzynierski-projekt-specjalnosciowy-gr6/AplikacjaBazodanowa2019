@@ -50,15 +50,15 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. N
 ### 5. Podział prac między członków zespołu:
   -	Marek Wojdyła:
     - programowanie back-endu aplikacji w języku PHP.
-    -bazy danych : Mongodb
+    - baza danych MongoDB
 
   -	Nędza Patrycja:
-    - baza danych: PostgreSQL
-    - zapytania dotyczące wybranej wyżej bazy
     - dokumentacja aplikacji
+    - kopiowanie danych między bazami
 
   -	Bartosz Jednacz:
     - programowanie front-endu aplikacji w języku PHP.
+    - baza danych PostgreSQL
 
 
 
