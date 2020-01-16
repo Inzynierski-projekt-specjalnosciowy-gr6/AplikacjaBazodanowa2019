@@ -1,7 +1,7 @@
 # AplikacjaBazodanowa2019
 
 
-# System ułatwiający współdziałanie dwóch różnych silników bazodanowych – PostgreSQL oraz Mongodb.
+# System ułatwiający współdziałanie dwóch różnych silników bazodanowych – PostgreSQL oraz MongoDB.
 
 
 ### Spis treści:
@@ -22,7 +22,7 @@ System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch r
 
 
 ### 2.	Dane gromadzone przez system:
-Obie bazy będą posiadać takie same dane i struktury, ponieważ aplikacja ma za główne zadanie sprawne kopiowanie plików ze środowiska PostgreSQL do Mongodb. 
+Obie bazy będą posiadać takie same dane i struktury, ponieważ aplikacja ma za główne zadanie sprawne kopiowanie plików ze środowiska PostgreSQL do MongoDB. 
 System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. Na podstawie tego, generowany będzie raport wyświetlający czasy operacji.
 
 
