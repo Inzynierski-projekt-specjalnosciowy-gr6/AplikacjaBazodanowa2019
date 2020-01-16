@@ -14,15 +14,15 @@
   
 
 ### 1. Cel i funkcje systemu:
-System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch różnych środowisk bazodanowych – PostgreSQL oraz ClickHouse. 
+System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch różnych środowisk bazodanowych – PostgreSQL oraz Mongodb. 
 - Aplikacja ta, będzie umożliwiać użytkownikowi m.in. CRUD (tworzenie / dodawanie, odczytywanie / wyświetlanie, aktualizowanie, usuwanie) oraz kopiowanie danych z jednej bazy do drugiej. 
-- Użytkownik będzie mógł poznać czas wykonywania poszczególnych operacji.
+- Użytkownik będzie mógł poznać czas wykonywania operacji import export.
 
 
 
 
 ### 2.	Dane gromadzone przez system:
-Obie bazy będą posiadać takie same dane i struktury, ponieważ aplikacja ma za główne zadanie sprawne kopiowanie plików ze środowiska PostgreSQL do ClickHouse i odwrotnie. 
+Obie bazy będą posiadać takie same dane i struktury, ponieważ aplikacja ma za główne zadanie sprawne kopiowanie plików ze środowiska PostgreSQL do Mongodb. 
 System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. Na podstawie tego, generowany będzie raport wyświetlający czasy operacji.
 
 
@@ -31,7 +31,6 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. N
 ### 3.	Autorzy aplikacji:
   - Jednacz Bartosz
   -	Nędza Patrycja
-  -	Sobkowicz Mateusz
   -	Wojdyła Marek
   
   
@@ -49,20 +48,16 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. N
   
   
 ### 5. Podział prac między członków zespołu:
-  -	Jednacz Bartosz:
+  -	Marek Wojdyła:
     - programowanie back-endu aplikacji w języku PHP.
+    -bazy danych : Mongodb
 
   -	Nędza Patrycja:
     - baza danych: PostgreSQL
     - zapytania dotyczące wybranej wyżej bazy
     - dokumentacja aplikacji
 
-  -	Sobkowicz Mateusz:
-    - baza danych: ClickHouse
-    - zapytania dotyczące wybranej wyżej bazy
-    - testy
-
-  -	Wojdyła Marek:
+  -	Bartosz Jednacz:
     - programowanie front-endu aplikacji w języku PHP.
 
 
