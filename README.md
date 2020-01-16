@@ -14,7 +14,7 @@
   
 
 ### 1. Cel i funkcje systemu:
-System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch różnych środowisk bazodanowych – PostgreSQL oraz Mongodb. 
+System ma spełniać podstawowe założenia jako menadżer plików dla  dwóch różnych środowisk bazodanowych – PostgreSQL oraz MongoDB. 
 - Aplikacja ta, będzie umożliwiać użytkownikowi m.in. CRUD (tworzenie / dodawanie, odczytywanie / wyświetlanie, aktualizowanie, usuwanie) oraz export danych z jednej bazy do drugiej. 
 - Użytkownik będzie mógł poznać czas wykonywania operacji import,export.
 
