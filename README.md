@@ -66,7 +66,7 @@ System bedzie zapisywał czasy poszczególnych operacji, w celu porównawczym. N
 ### 6. Schematy UML:
   -	Diagram użycia: 
   
-  ![Błąd](Diagram_użycia.PNG "Opcjonalny tytul")
+  
   
   
   
